@@ -9,3 +9,4 @@ This is a calendar application that allows the user to schedule events.
 * CSS
 * BootStrap
 * JQuery
+* Moment.js
